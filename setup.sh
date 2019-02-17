@@ -1,4 +1,5 @@
-sudo apt-get install vim git -y
+apt-get update
+apt-get install gdb vim git -y
 
 
 #peda
